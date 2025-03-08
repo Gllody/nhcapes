@@ -15,4 +15,4 @@ very:aetheric
 HightSeal:aetheric
 Franek_bananek:aetheric
 Panda_weed:aetheric
-Pan_Malarz:aetheric
+_Pan_Malarz_:aetheric
